@@ -7,11 +7,11 @@ baseurl:             ''
 paginate:            5
 permalink:           pretty
 
-# # About/contact
-# author:
-#   name:              Mark Otto
-#   url:               https://twitter.com/mdo
-#   email:             markdotto@gmail.com
+# About/contact
+author:
+  name:              Seungwoo Kang
+  url:               ''
+  email:             lirtha@naver.com
 
 # Gems
 plugins:
