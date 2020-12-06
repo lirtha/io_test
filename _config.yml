@@ -5,6 +5,7 @@ description:         ''
 url:                 http://lirtha.github.io
 baseurl:             ''
 paginate:            1
+pagenate_path:       '/blog/:num'
 permalink:           pretty
 
 # About/contact
